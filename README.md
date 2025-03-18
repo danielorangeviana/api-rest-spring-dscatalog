@@ -8,6 +8,7 @@ DSCatalog is a product catalog backend application web built during the **Java S
 The application consists of a search for products and their respective categories where data is collected, stored and collected using a simple crud.
 
 ## Conceptual model
+![modelo_conceitual](https://github.com/danielorangeviana/api-rest-spring-dscatalog/blob/main/Modelo%20conceitual%20DSCatalog.jpg)
 
 ## 🔵 Technologies
 1. Spring Boot
@@ -40,3 +41,5 @@ Maven
 How can I test my endpoints?
 
 For tests cases, you can check the API endpoints with Postman.
+
+[Postman Collection](https://www.postman.com/)
