@@ -45,11 +45,12 @@ For tests cases, you can check the API endpoints with Postman.
 [Postman Collection](https://www.postman.com/)
 
 ## 🔵 Backend requests
-1. Paged resource search
-2. Resource search by id
-3. Insert new resource
-4. Update feature
-5. Delete resource
+1. Username and password authentication
+2. Paged resource search
+3. Resource search by id
+4. Insert new resource
+5. Update feature
+6. Delete resource
 
 ## 🔵 Author
 Daniel Cabral de Orange Viana
