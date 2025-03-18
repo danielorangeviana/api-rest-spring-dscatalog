@@ -43,3 +43,9 @@ How can I test my endpoints?
 For tests cases, you can check the API endpoints with Postman.
 
 [Postman Collection](https://www.postman.com/)
+
+## 🔵 Author
+Daniel Cabral de Orange Viana
+
+https://www.linkedin.com/in/daniel-orange-453233346/
+
